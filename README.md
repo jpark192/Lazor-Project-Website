@@ -1,10 +1,8 @@
 ## Welcome to Jason's website
 
-You can use the [editor on GitHub](https://github.com/jpark192/SoftwareCarpentryWC3hw/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Bio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
