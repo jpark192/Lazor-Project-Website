@@ -1,8 +1,26 @@
-## Welcome to Jason's website
+<title>
+  Lazor Project </n> by Jason , Kyu, 
+</title>
+
+## Project : Lazor 
 
 
 
-### Bio
+### Abstract
+
+The goal of this project is to develop a solver for "Lazor" game, that will solve the puzzle with a given initial condition in a relatively short time. 
+
+### Description
+
+For a given initial condition include
+ - Grid
+ - Blocks (types, numbers)
+ - Lazers (start point, direction)
+ - Points (where the lazers to intersect)
+ 
+The solver is to do the following
+  1. Read in the given initial conditions
+  1. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
