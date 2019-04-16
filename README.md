@@ -1,6 +1,4 @@
-<title>
-  Lazor Project </n> by Jason , Kyu, 
-</title>
+# Lazor Project by Jason, Kyu, QiMing
 
 ## Project : Lazor 
 
@@ -19,8 +17,17 @@ For a given initial condition include
  - Points (where the lazers to intersect)
  
 The solver is to do the following
-  1. Read in the given initial conditions
-  1. 
+  1. Read in the given initial conditions and set variables
+  1. Place Lazers, Points in the Grid
+  1. Place given Blocks in Grid 1 by 1 in different positions.
+  1. The Solver Code will utilize Trial & Error and Process of Elimination
+  
+### GitHub Code
+
+Our Code can be seen in the following link :
+[Open GitHub](https://github.com/kukionfr/Lazor-Project)
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
